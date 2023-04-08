@@ -5,9 +5,9 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Asrfly", "Asrfly\Asrfly.csproj", "{6BDEEA93-A539-478E-BE42-3CFD94437070}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asrfly.Core", "Asrfly.Core\Asrfly.Core.csproj", "{523AB4CB-74E5-44E7-876C-14C9112F1A9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Asrfly.Core", "Asrfly.Core\Asrfly.Core.csproj", "{523AB4CB-74E5-44E7-876C-14C9112F1A9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asrfly.Data", "Asrfly.Data\Asrfly.Data.csproj", "{A62FC418-04B5-4D3A-A21E-FDB930AB2EA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Asrfly.Data", "Asrfly.Data\Asrfly.Data.csproj", "{A62FC418-04B5-4D3A-A21E-FDB930AB2EA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
